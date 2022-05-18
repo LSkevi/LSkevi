@@ -2,7 +2,7 @@
 Ola! Bem Vindo ao meu Portfólio, fique a vontade para ver os meus projetos
 
 
-📖 Aprendendo no momento: Desenvolvimento de Jogos por Java
+📖 Aprendendo no momento: Desenvolvimento de Jogos na plataforma Unity
 
 🌱 Proximo aprendizado: Unreal Engine
 
