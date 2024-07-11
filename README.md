@@ -1,8 +1,7 @@
 
 🚀 About Me
 I'm a computer enginnering student currently working as a fullstack developer.
-
-![Cyberpunk GIF]([https://link-para-o-seu-gif.com/seu-gif.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFkZWluYXhkemhlZnM0eTJkbDRjcXF4c25wdHdianB6dWJsZDE4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif))
+![68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3231312f3231313933312e676966](https://github.com/LSkevi/LSkevi/assets/99023092/2090a565-fbef-4be0-804c-973924d08dfb)
 
 
 Atualmente Diretor de Programação da Nox Studios
