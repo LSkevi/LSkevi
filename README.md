@@ -1,5 +1,9 @@
 
-Ola! Bem Vindo ao meu Portfólio, fique a vontade para ver os meus projetos
+🚀 About Me
+I'm a computer enginnering student currently working as a fullstack developer.
+
+cyberpunkGif
+
 
 Atualmente Diretor de Programação da Nox Studios
 
