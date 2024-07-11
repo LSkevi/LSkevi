@@ -1,5 +1,7 @@
 <h1 align="center">Hello, there!👋</h1>
-<h3 align="center">I'm a computer enginnering student currently in a 2D Game.</h3>
+<h3 align="center">I'm a computer enginnering student currently working on a 2D Game.</h3>
+
+
 
 - 🔭 I’m currently working on **Elemental Stone Age**
 
