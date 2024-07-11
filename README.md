@@ -1,6 +1,6 @@
 <h1 align="center">Hello, there!👋</h1>
 <h3 align="center">I'm a computer enginnering student currently in a 2D Game.</h3>
-![giphy](https://github.com/LSkevi/LSkevi/assets/99023092/6531f871-c42c-4604-a871-ec6144610339)
+(img align="center"src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif")
 
 
 - 🔭 I’m currently working on **Elemental Stone Age**
