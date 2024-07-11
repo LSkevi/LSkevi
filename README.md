@@ -1,6 +1,7 @@
 <h1 align="center">Hello, there!👋</h1>
 <h3 align="center">I'm a computer enginnering student currently working on a 2D Game.</h3>
 
+![68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3231312f3231313933312e676966](https://github.com/LSkevi/LSkevi/assets/99023092/fcd330ec-be87-4bbd-a450-003a751ef99c)
 
 
 - 🔭 I’m currently working on **Elemental Stone Age**
