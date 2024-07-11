@@ -1,7 +1,9 @@
 
 Ola! Bem Vindo ao meu Portfólio, fique a vontade para ver os meus projetos
 
-Atualmente Estagiário de Análise de Sistemas no BNDES
+Atualmente Diretor de Programação da Nox Studios
+
+Já atuei como  Estagiário de Análise de Sistemas no BNDES por 2 anos
 
 📖 Aprendendo no momento: Desenvolvimento de Jogos na plataforma Unity
 
