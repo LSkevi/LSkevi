@@ -1,5 +1,5 @@
 <h1 align="center">Hello, there!👋</h1>
-<h3 align="center">I'm a computer enginnering student with experience working as a fullstack developer.</h3>
+<h3 align="center">I'm a computer enginnering with experience working as a fullstack developer.</h3>
 
 ![icegif-96](https://github.com/LSkevi/LSkevi/assets/99023092/d2831efe-ba1e-4c72-8875-e8bec40d0a45)
 
