@@ -3,9 +3,9 @@
 
 ![icegif-96](https://github.com/LSkevi/LSkevi/assets/99023092/d2831efe-ba1e-4c72-8875-e8bec40d0a45)
 
-- 🔭 I’m currently working on **Captain's Dream**
+- 🔭 I’m currently working on **Pietrack**
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Java, Angular**
 
