@@ -1,15 +1,15 @@
 <h1 align="center">Hey, I'm Lucas Stankevicius</h1>
-<h3 align="center">Computer Engineer | Fullstack Developer | Building things that matter</h3>
+<h3 align="center">Computer Engineer | Fullstack Developer</h3>
 
 <br>
 
 ![icegif-96](https://github.com/LSkevi/LSkevi/assets/99023092/d2831efe-ba1e-4c72-8875-e8bec40d0a45)
 
-- Shipping production systems end-to-end — from database design to pixel-perfect UIs
+- Shipping production systems end-to-end from database design to pixel-perfect UIs
 
-- Currently building **[MeuEZ](https://github.com/LSkevi)** — a fullstack platform architected from scratch
+- Currently building **[MeuEZ](https://github.com/LSkevi)** a fullstack platform architected from scratch
 
-- Diving deep into **Offensive Security & Ethical Hacking** — because understanding how systems break makes you build them better
+- Diving deep into **Offensive Security & Ethical Hacking** because understanding how systems break makes you build them better
 
 - Reach me at **lucas.stankevi@gmail.com**
 
