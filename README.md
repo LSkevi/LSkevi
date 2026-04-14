@@ -7,7 +7,7 @@
 
 - Shipping production systems end-to-end from database design to pixel-perfect UIs
 
-- Currently building **[MeuEZ](https://github.com/LSkevi)** a fullstack platform architected from scratch
+- Fullstack dev at **[Ezaligner](https://github.com/ezaligner)** working on **MeuEZ**, a Django/PostgreSQL SaaS for dental aligner treatment management — building features across 20+ apps (fabricas, financeiro, planejamento, integrações Bling/OnyxCeph, admin, pit-stop, and more)
 
 - Diving deep into **Offensive Security & Ethical Hacking** because understanding how systems break makes you build them better
 
@@ -72,14 +72,14 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[MedWise](https://github.com/LSkevi/MedWise)** | Medication recommendation engine integrating RxNorm, OpenFDA & MedlinePlus APIs | TypeScript |
 | **[PieTracker](https://github.com/LSkevi/PieTracker)** | Full-stack expense analytics platform with real-time visualizations | React, FastAPI |
 | **[Email Categorizer](https://github.com/LSkevi/Email-Categorizer)** | Automated email classification and sorting system | JavaScript |
+| **[Valentine](https://github.com/LSkevi/Valentine)** | Interactive Valentine's Day web experience with music-maker, built with Vite + TypeScript | TypeScript, Vite |
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lskevi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lskevi" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lskevi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lskevi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lskevi&show_icons=true&locale=en&theme=tokyonight" alt="lskevi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lskevi&show_icons=true&locale=en&theme=tokyonight" alt="lskevi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lskevi&theme=tokyonight" alt="lskevi" /></p>
