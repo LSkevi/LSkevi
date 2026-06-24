@@ -5,12 +5,9 @@
 
 ![icegif-96](https://github.com/LSkevi/LSkevi/assets/99023092/d2831efe-ba1e-4c72-8875-e8bec40d0a45)
 
-- Shipping production systems end-to-end from database design to pixel-perfect UIs
-
-- Fullstack dev at **[EZAligner](https://github.com/ezaligner)** (Jan to Jun 2026) on **MeuEZ**, a Django/PostgreSQL SaaS for dental aligner treatment management — built features across 20+ apps (fabricas, financeiro, planejamento, integrações Bling/OnyxCeph, admin, pit-stop, and more), a production monitoring dashboard, and CI/CD with GitHub Actions
-
+- Fullstack dev
+- Worked at **[EZAligner](https://github.com/ezaligner)** (Jan to Jun 2026) on **MeuEZ**, a Django/PostgreSQL SaaS for dental aligner treatment management — built features across 20+ apps (fabricas, financeiro, planejamento, integrações Bling/OnyxCeph, admin, pit-stop, and more), a production monitoring dashboard, and CI/CD with GitHub Actions
 - Diving deep into **Offensive Security & Ethical Hacking** because understanding how systems break makes you build them better
-
 - Reach me at **lucas.stankevi@gmail.com**
 
 <br>
